@@ -25,6 +25,9 @@ body {
   font-size: 2.5em;
 
 }
+span{
+  color: rgb(241, 89, 34);
+}
 ul{
   display:flex;
   align-items: center;
