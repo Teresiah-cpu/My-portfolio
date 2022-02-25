@@ -43,4 +43,8 @@ ul{
 ul li a{
   color: black;
   text-decoration: none;
+  font-weight: bold;
+}
+ul li a:hover{
+  color: red;
 }
