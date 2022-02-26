@@ -149,6 +149,19 @@ p{
   width: 450px;
   text-align: center;
 }
+.footer h1{
+  
+  font-size: 2em;
+  margin-left: 70%;
+}
+.footer h2{
+  font-size: 2em;
+  color: white;
+  margin-top: 20px;
+}
+.newsletter{
+  float: right;
+}
 .newsletter form{
    width: 380px;
    max-width: 100%;
@@ -169,9 +182,12 @@ p{
   border: none;
   padding: 10px 30px;
   border-radius: 30px;
-  background-color: orangered;
+  background-color: rgb(241, 89, 34);
   color: white;
   top: 6px;
   right: 6px;
      
+}
+.footer{
+  margin-top: 40px;
 }
