@@ -212,3 +212,10 @@ p{
 .contact{
    padding-left: 20px;
 }
+.allrights{
+  text-align: center;
+}
+.allrights p{
+  font-style: italic;
+
+}
