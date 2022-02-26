@@ -121,11 +121,12 @@ p{
    font-size: 20px;
   color: white;
   padding-top: 40px;
+  margin-bottom: 20px;
 }
 .projects h1{
    font-size: 35px;
   color: white;
-  padding-top: 40px;
+  padding-top: 10px;
 }
 .container1{
   border: 1px solid white;
