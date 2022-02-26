@@ -157,7 +157,8 @@ p{
 .footer h2{
   font-size: 2em;
   color: white;
-  margin-top: 20px;
+  margin-left: 20px;
+
 }
 .newsletter{
   float: right;
@@ -190,4 +191,24 @@ p{
 }
 .footer{
   margin-top: 40px;
+  padding-top: 20px;
+}
+.socialmedia{
+   text-align: center;
+   display: inline-flex;
+   justify-content: space-between;
+   margin-left: 10%;
+   margin-bottom: 50px;
+}
+.instagram{
+  padding-left: 20px;
+}
+.email{
+   padding-left: 20px;
+}
+.facebook{
+   padding-left: 20px;
+}
+.contact{
+   padding-left: 20px;
 }
