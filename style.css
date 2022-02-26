@@ -149,3 +149,29 @@ p{
   width: 450px;
   text-align: center;
 }
+.newsletter form{
+   width: 380px;
+   max-width: 100%;
+   position: relative;
+}
+.newsletter form input:first-child{
+  display: inline-block;
+  width: 100%;
+  padding: 14px 130px 14px 15px;
+  border: none;
+  outline: none;
+  border-radius: 30px;
+}
+.newsletter form input:last-child{
+  position: absolute;
+  display: inline-block;
+  outline: none;
+  border: none;
+  padding: 10px 30px;
+  border-radius: 30px;
+  background-color: orangered;
+  color: white;
+  top: 6px;
+  right: 6px;
+     
+}
