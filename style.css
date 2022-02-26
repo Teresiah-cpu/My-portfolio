@@ -93,7 +93,12 @@ h4{
 }
 p{
   color: white;
+  font-size: 20px;
+  font-family: sans-serif;
 
+}
+#image2{
+  margin-left: 20px;
 }
 
 .aboutsection h5{
@@ -106,4 +111,40 @@ p{
   font-size: 20px;
   font-family: sans-serif;
   margin-left: 30px;
+}
+.projects{
+  margin-left: 20px;
+  display: flex;
+
+}
+.projects h3{
+   font-size: 20px;
+  color: white;
+  padding-top: 40px;
+}
+.projects h1{
+   font-size: 35px;
+  color: white;
+  padding-top: 40px;
+}
+.container1{
+  border: 1px solid white;
+  margin-top: 40px;
+  width: 450px;
+  text-align: center;
+
+}
+.container2{
+  border: 1px solid white;
+  margin-left: 20px;
+  margin-top: 40px;
+  width: 450px;
+  text-align: center;
+}
+.container3{
+  border: 1px solid white;
+  margin-left: 20px;
+  margin-top: 40px;
+  width: 450px;
+  text-align: center;
 }
