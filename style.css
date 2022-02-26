@@ -25,6 +25,7 @@ body {
   margin-right: 5%;
   padding-left: 90px;
   
+  
 
 }
 
@@ -75,17 +76,26 @@ h4{
   font-size: 20px;
   letter-spacing: 1.5px;
   color: white;
+  font-style: italic;
+}
+.about{
+  border:none;
+  align-items: center;
+  display: flex;
+  margin-top: 50px;
 }
 .aboutsection h1{
   color: white;
   margin: 20px 0px 20px;
   font-size: 35px;
   margin-left: 40%;
+  font-style: italic;
 }
 p{
   color: white;
 
 }
+
 .aboutsection h5{
   color: white;
   font-size: 25px;
